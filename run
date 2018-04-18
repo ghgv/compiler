@@ -1,0 +1,2 @@
+g++ -o test token.cpp word.cpp lex.cpp main.cpp hash.cpp num.cpp -fpermissive -std=c++11
+./test
